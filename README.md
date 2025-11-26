@@ -1,7 +1,7 @@
 # *3D Stylization*
 
 ## Project Overview:
-In this assignment, I use a 2D concept art piece as inspiration to create a 3D Stylized scene in Unity. This will give you the opportunity to explore stylized graphics techniques alongside non-photo-realistic (NPR) real-time rendering workflows in Unity.
+In this project, I use a 2D concept art piece as inspiration to create a 3D Stylized scene in Unity. This will give you the opportunity to explore stylized graphics techniques alongside non-photo-realistic (NPR) real-time rendering workflows in Unity.
 | <img width="500px" src=https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/755780f1-8b8c-47e1-b14f-3a619f92fd3a/>  | <img width="500px" src=https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/70550c09-ba75-4d10-9b30-60874179ad10/> |
 |:--:|:--:|
 | *2D Concept Illustration* | *3D Stylized Scene in Unity* |
@@ -72,16 +72,16 @@ For this project, I selected multiple references to guide different aspects of m
 
 ## 6. Interactivity
 - Fanart mode 
-    - Press Space to change materials of Sun and Ground
+    - Press Space to change the materials of the Sun and the Ground
 
 | ![](./img/mode1.png) | ![](./img/mode2.png) |
 |:--:|:--:|
 |Mode 1|Mode 2|
 
-## 7. Extra Credit
+## 7. Extra
 - Moving Lights: Lights in the scene move subtly.
 - Moving Sun: The sun shifts its position over time to simulate sunrise.
-- Noise Shader: Incorporated a noise into shader for added texture effects for the sun.
+- Noise Shader: Incorporated a noise into the shader for added texture effects for the sun.
 ---
 ## Resources:
 1. Link to all reference videos:
